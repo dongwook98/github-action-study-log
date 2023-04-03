@@ -49,7 +49,7 @@ function App() {
 
   return (
     <>
-      <h1>My Agora Sta2222222222tes!</h1>
+      <h1>My Agora Stsdsdsdsda2222222222tes!</h1>
       <Form addDiscussion={addDiscussion}></Form>
       <Discussions
         discussions={discussions}
